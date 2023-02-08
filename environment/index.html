@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" >
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <link rel="shortcut icon" href="../img/favicon.ico" />
+    <title>环境搭建 - SMU-XCPC Wiki</title>
+    <link rel="stylesheet" href="../css/theme.css" />
+    <link rel="stylesheet" href="../css/theme_extra.css" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/styles/github.min.css" />
+    
+      <script>
+        // Current page data
+        var mkdocs_page_name = "\u73af\u5883\u642d\u5efa";
+        var mkdocs_page_input_path = "environment.md";
+        var mkdocs_page_url = null;
+      </script>
+    
+    <script src="../js/jquery-3.6.0.min.js" defer></script>
+    <!--[if lt IE 9]>
+      <script src="../js/html5shiv.min.js"></script>
+    <![endif]-->
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/highlight.min.js"></script>
+      <script>hljs.initHighlightingOnLoad();</script> 
+</head>
+
+<body class="wy-body-for-nav" role="document">
+
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
+    <div class="wy-side-scroll">
+      <div class="wy-side-nav-search">
+          <a href=".." class="icon icon-home"> SMU-XCPC Wiki
+        </a><div role="search">
+  <form id ="rtd-search-form" class="wy-form" action="../search.html" method="get">
+      <input type="text" name="q" placeholder="Search docs" title="Type search term here" />
+  </form>
+</div>
+      </div>
+
+      <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="..">Welcome to MkDocs</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../ask-question/">提问须知</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../contests/">比赛</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../debug/">如何 debug</a>
+                </li>
+              </ul>
+              <ul class="current">
+                <li class="toctree-l1 current"><a class="reference internal current" href="./">环境搭建</a>
+    <ul class="current">
+    <li class="toctree-l2"><a class="reference internal" href="#_2">代码编辑器</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#_3">编译器</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#linux">Linux</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#windows">Windows</a>
+    </li>
+        </ul>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#_4">终端</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#linux_1">Linux</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#windows_1">Windows</a>
+    </li>
+        </ul>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#_5">编译脚本</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#linux_2">Linux</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#windows_2">Windows</a>
+    </li>
+        </ul>
+    </li>
+    </ul>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../%E8%81%94%E7%B3%BB/">联系</a>
+                </li>
+              </ul>
+              <p class="caption"><span class="caption-text">2023春</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../2023%E6%98%A5/%E8%AE%AD%E7%BB%83%E8%AE%A1%E5%88%92/">训练计划</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">队员</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../%E9%98%9F%E5%91%98/%E4%B9%B0%E9%91%AB/">买鑫</a>
+                  </li>
+              </ul>
+      </div>
+    </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+      <nav class="wy-nav-top" role="navigation" aria-label="Mobile navigation menu">
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="..">SMU-XCPC Wiki</a>
+        
+      </nav>
+      <div class="wy-nav-content">
+        <div class="rst-content"><div role="navigation" aria-label="breadcrumbs navigation">
+  <ul class="wy-breadcrumbs">
+    <li><a href=".." class="icon icon-home" alt="Docs"></a> &raquo;</li>
+      <li>环境搭建</li>
+    <li class="wy-breadcrumbs-aside">
+    </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+            <div class="section" itemprop="articleBody">
+              
+                <h1 id="_1">环境搭建</h1>
+<p>只讲单文件 C++ 程序编写和编译运行</p>
+<p>按照本文的搭建结果应该是：代码编辑器 + 编译器 + 终端 + 一些脚本(optional)。</p>
+<p>警告：Mac 网络赛和现场赛都用不了，但是 Mac 是基于 Unix 的，可以参考 Linux 中的内容</p>
+<h2 id="_2">代码编辑器</h2>
+<p>首先不采用任何 IDE 的原因是避免依赖，讲更加通用的方法。程序设计竞赛现场赛多是使用提供的机器，不保证IDE的安装。不希望再有任何关于 IDE 使用的问题。</p>
+<p>代码编辑器选择有很多，选喜欢的即可，例如：Vim, Vscode(无插件），gedit, sublime, notepad++, 忽略功能按钮的 IDE， 等等...</p>
+<h2 id="_3">编译器</h2>
+<h3 id="linux">Linux</h3>
+<p>g++，安装后一般无需额外配置</p>
+<h3 id="windows">Windows</h3>
+<p>如果使用 WSL, 则同 Linux，后续不再强调</p>
+<p>第一步，下载按照下列之一，建议装64位的，建议选 TDM-gcc，根据经验编译的会快一点，也比较好装。</p>
+<ol>
+<li><a href="https://jmeubank.github.io/tdm-gcc/">TDM-gcc</a> 也可以下载群文件工具目录中有 <code>tdm-gcc-10.3.0-2.exe</code></li>
+<li><a href="https://www.mingw-w64.org/downloads/">Mingw64</a></li>
+<li><a href="https://sourceforge.net/projects/mingw/">Mingw</a></li>
+</ol>
+<p>第二步，把 g++.exe 所在路径加入环境变量里</p>
+<p>找到安装的路径，应有 bin/g++.exe 把 bin 目录加入 Windows 的环境变量中，
+例如 <code>C:\TDM-GCC-64\bin\g++.exe</code>, 则应加入 <code>C:\TDM-GCC-64\bin</code>。</p>
+<p>添加环境变量这里不详细讲了，win10 或以上可以参考<a href="https://jingyan.baidu.com/article/47a29f24610740c0142399ea.html">链接</a>，win7或以下可以参考<a href="https://jingyan.baidu.com/article/b24f6c82cba6dc86bfe5da9f.html">链接</a>， 也可以通过百度等所搜引擎学习。</p>
+<h2 id="_4">终端</h2>
+<p>如果完成了上述步骤，打开终端输入 <code>g++ --version</code> 应该能看到版本号，<code>gdb --version</code> 也可以</p>
+<h3 id="linux_1">Linux</h3>
+<p>选自己喜欢的即可，现场一定会有 bash</p>
+<h3 id="windows_1">Windows</h3>
+<p>cmd 或 git-bash 或 PowerShell 进入后先敲一个 cmd 回车</p>
+<p>tip: 在文件夹按住 shift + 右键可以在此打开终端，
+git-bash 需要安装的时候配置，vscode 也可以配置终端。</p>
+<h2 id="_5">编译脚本</h2>
+<p>IDE 其实就是把编译期提供的信息按它的方式展现出来。这里讲下如何终端进行编译。</p>
+<p>假如要编译 main.cpp 文件</p>
+<pre><code class="language-bash">g++ main.cpp -o main
+</code></pre>
+<p>在 Linux 下会生成 main 文件，Windows 下会生成 main.exe 文件，如果没有 <code>-o main</code> 则会生成 a.out, 复杂一点</p>
+<pre><code class="language-bash">g++ main.cpp -o main -g -Wall -DLOCAL -O0
+</code></pre>
+<p><code>-g</code> 表示开启调试符号, <code>-O0</code> 关闭所有优化选项，<code>-Wall</code> 开启编译警告。</p>
+<p><code>-DLOCAL</code> 相当于程序里写了 <code>#define LOCAL</code>，多用于调试。</p>
+<h3 id="linux_2">Linux</h3>
+<p>例如创建 rc</p>
+<pre><code class="language-bash">#!/bin/bash
+g++ $1.cpp -o $1 -g -O0 -Wall -DLOCAL -fsanitize=undefined -fsanitize=address &amp;&amp; echo compile_successfully &gt;&amp;2 &amp;&amp; ./$1
+</code></pre>
+<p>则可以 <code>./rc A</code> 编译运行 A.cpp</p>
+<h3 id="windows_2">Windows</h3>
+<p>创建 rc.bat</p>
+<pre><code class="language-bat">g++ %1.cpp -o %1 -g -O0 -Wall -DLOCAL &amp;&amp; echo compile_successfully &amp;&amp; %1.exe
+</code></pre>
+<p>则可以 <code>rc A</code> 编译运行 A.cpp</p>
+              
+            </div>
+          </div><footer>
+    <div class="rst-footer-buttons" role="navigation" aria-label="Footer Navigation">
+        <a href="../debug/" class="btn btn-neutral float-left" title="如何 debug"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+        <a href="../%E8%81%94%E7%B3%BB/" class="btn btn-neutral float-right" title="联系">Next <span class="icon icon-circle-arrow-right"></span></a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <!-- Copyright etc -->
+  </div>
+
+  Built with <a href="https://www.mkdocs.org/">MkDocs</a> using a <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
+</footer>
+          
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+
+  <div class="rst-versions" role="note" aria-label="Versions">
+  <span class="rst-current-version" data-toggle="rst-current-version">
+    
+    
+      <span><a href="../debug/" style="color: #fcfcfc">&laquo; Previous</a></span>
+    
+    
+      <span><a href="../%E8%81%94%E7%B3%BB/" style="color: #fcfcfc">Next &raquo;</a></span>
+    
+  </span>
+</div>
+    <script>var base_url = '..';</script>
+    <script src="../js/theme_extra.js" defer></script>
+    <script src="../js/theme.js" defer></script>
+      <script src="../search/main.js" defer></script>
+    <script defer>
+        window.onload = function () {
+            SphinxRtdTheme.Navigation.enable(true);
+        };
+    </script>
+
+</body>
+</html>

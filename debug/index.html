@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" >
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <link rel="shortcut icon" href="../img/favicon.ico" />
+    <title>如何 debug - SMU-XCPC Wiki</title>
+    <link rel="stylesheet" href="../css/theme.css" />
+    <link rel="stylesheet" href="../css/theme_extra.css" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/styles/github.min.css" />
+    
+      <script>
+        // Current page data
+        var mkdocs_page_name = "\u5982\u4f55 debug";
+        var mkdocs_page_input_path = "debug.md";
+        var mkdocs_page_url = null;
+      </script>
+    
+    <script src="../js/jquery-3.6.0.min.js" defer></script>
+    <!--[if lt IE 9]>
+      <script src="../js/html5shiv.min.js"></script>
+    <![endif]-->
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/highlight.min.js"></script>
+      <script>hljs.initHighlightingOnLoad();</script> 
+</head>
+
+<body class="wy-body-for-nav" role="document">
+
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
+    <div class="wy-side-scroll">
+      <div class="wy-side-nav-search">
+          <a href=".." class="icon icon-home"> SMU-XCPC Wiki
+        </a><div role="search">
+  <form id ="rtd-search-form" class="wy-form" action="../search.html" method="get">
+      <input type="text" name="q" placeholder="Search docs" title="Type search term here" />
+  </form>
+</div>
+      </div>
+
+      <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="..">Welcome to MkDocs</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../ask-question/">提问须知</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../contests/">比赛</a>
+                </li>
+              </ul>
+              <ul class="current">
+                <li class="toctree-l1 current"><a class="reference internal current" href="./">如何 debug</a>
+    <ul class="current">
+    <li class="toctree-l2"><a class="reference internal" href="#_1">输出调试</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#io">I/O 重定向</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#_2">调试工具</a>
+    </li>
+    </ul>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../environment/">环境搭建</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../%E8%81%94%E7%B3%BB/">联系</a>
+                </li>
+              </ul>
+              <p class="caption"><span class="caption-text">2023春</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../2023%E6%98%A5/%E8%AE%AD%E7%BB%83%E8%AE%A1%E5%88%92/">训练计划</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">队员</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../%E9%98%9F%E5%91%98/%E4%B9%B0%E9%91%AB/">买鑫</a>
+                  </li>
+              </ul>
+      </div>
+    </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+      <nav class="wy-nav-top" role="navigation" aria-label="Mobile navigation menu">
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="..">SMU-XCPC Wiki</a>
+        
+      </nav>
+      <div class="wy-nav-content">
+        <div class="rst-content"><div role="navigation" aria-label="breadcrumbs navigation">
+  <ul class="wy-breadcrumbs">
+    <li><a href=".." class="icon icon-home" alt="Docs"></a> &raquo;</li>
+      <li>如何 debug</li>
+    <li class="wy-breadcrumbs-aside">
+    </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+            <div class="section" itemprop="articleBody">
+              
+                <h1 id="debug">如何 debug</h1>
+<p>群里的提问，应该是针对某条语句的提问，或是针对本文的提问，而不是一大段代码问哪里错了。</p>
+<p>这里只讲对于 C++ 单文件程序的 debug。这里假设已经有了能使程序运行结果错误的输入，而不仅是在OJ上提交没有通过。
+环境见配置环境。</p>
+<p>阅读<a href="https://icpc.xidian.wiki/cce">常见编程错误列表</a></p>
+<h2 id="_1">输出调试</h2>
+<p>要保证对自己编写的程序理解知道在该输入下正常程序应该如何运行。
+在此前提下觉得哪儿可能有问题，就把对应的结果输出一下，然后编译运行，例如。</p>
+<pre><code class="language-cpp">for(int i=1;i&lt;=n;i++){
+    int ret=work(i);
+    //...
+}
+</code></pre>
+<p>如果结果出错，可以写</p>
+<pre><code class="language-cpp">for(int i=1;i&lt;=n;i++){
+    fprintf(stderr, &quot;work %d\n&quot;, i);
+    int ret=work(i);
+    fprintf(stderr, &quot;work %d result=ret\n&quot;, i, ret);
+    //...
+}
+</code></pre>
+<blockquote>
+<p>这里使用 <code>fprintf(stderr, ...)</code> 或者 <code>cerr</code> 是因为错误流是按行缓冲的，而 <code>printf</code> 或者 <code>stdout</code> 是标准输出，
+不保证缓冲多少，所以有可能执行了，但是不能立刻看到结果，当然也可以 <code>fflush(stdout)</code> 或者 <code>cout.flush()</code> 来立即输出</p>
+</blockquote>
+<p>通过打印 <code>ret</code> 和在草纸上演算的正确结果比较，即可得知在哪次 <code>work</code> 出了问题，再对 <code>work</code> 进行 debug，
+类似的如果是分支错误，则把每次分支如何跳转的打印出来，再进行比较即可。</p>
+<p>虽然按照上述方法一定能找到程序错误的所在，
+但对于新手来讲，对一段很短的代码定位错误可能也会比较慢，主要原因是还没有形成良好的编程思维，对自己写的语句的作用可能很快就忘记了。
+多加练习，尽量自己调试，即可克服。</p>
+<p>经过以上努力，解决了问题或是至少把问题从我的代码哪里有问题转变为，为什么这条语句是如此运行的。</p>
+<p>使用输出调试时，建议不打开优化（即，使用 <code>-O0</code> 优化级别）。
+这是因为如果代码中存在未定义行为，优化可能导致输出与直观预期不符。</p>
+<p>其他</p>
+<p><code>assert(bool)</code> ，如果传的是 false 则会 RE，用途：<br />
+假如按照正常运行结果应满足 <code>n&lt;m</code>，则在程序添加 <code>assert(n&lt;m);</code></p>
+<p>注意有的 OJ 上 <code>assert</code> 失败不会正常触发 RE，
+如果对 OJ 不了解的话不建议用于在 OJ 上测代码。</p>
+<p>调试宏</p>
+<pre><code class="language-cpp">#include&lt;iostream&gt;
+void debug_out(){std::cerr&lt;&lt;std::endl;}
+template &lt;typename Head,typename... Tail&gt;
+void debug_out(Head H,Tail... T){
+  std::cerr&lt;&lt;&quot; &quot;&lt;&lt;H;//to_string(H);
+  debug_out(T...);
+}
+#ifdef LOCAL
+#define dbg(...) std::cerr&lt;&lt;&quot;L&quot;&lt;&lt;__LINE__&lt;&lt;&quot; [&quot;&lt;&lt;#__VA_ARGS__&lt;&lt;&quot;]:&quot;,debug_out(__VA_ARGS__)
+#define debug(...) std::cerr&lt;&lt;__VA_ARGS__//fprintf(stderr, __VA_ARGS__)
+#else
+#define dbg(...) 0
+#define debug(...) 0
+#endif
+</code></pre>
+<p>在本地编译选项里加入 <code>-DLOCAL</code>，提交时可以不用注释调试输出，用法</p>
+<pre><code class="language-cpp">dbg(n,m); //输出n,m，例如当前行为12,n=3,m=4则会输出: L12 [n,m]: 3 4
+</code></pre>
+<p>如果要用循环输出很多调试信息，建议将整个循环进行条件编译，例如</p>
+<pre><code class="language-cpp">//输出 a[1..n]
+for(int i=1;i&lt;=n;++i) debug(a[i]&lt;&lt;&quot; \n&quot;[i==n]);
+
+#ifdef LOCAL
+for(int i=1;i&lt;=n;++i) std::cerr&lt;&lt;a[i]&lt;&lt;&quot; \n&quot;[i==n];
+#endif
+</code></pre>
+<p>这是因为编译器不一定能够优化空循环，特别是在使用 C++ 容器时。</p>
+<h2 id="io">I/O 重定向</h2>
+<p>如果输出的信息很多，以至于屏幕放不下，可以重定向输出。在 Linux 或者 MinGW
+的 Bash 中：</p>
+<pre><code class="language-bash">./a.out 2&gt;err.txt &gt;out.txt
+</code></pre>
+<p>则 <code>out.txt</code> 文件会包含你程序的正常输出，<code>err.txt</code> 文件会包含你用
+<code>debug</code> 宏输出的东西。你也可以只使用 <code>2&gt;</code> 或只使用 <code>&gt;</code>。</p>
+<p>如果你想把正常输出和用 <code>debug</code> 宏输出的东西放在一起，使用</p>
+<pre><code class="language-bash">./a.out &amp;&gt; out.txt
+</code></pre>
+<p>如果输入很大或者懒得每次敲相同的输入数据，也可以重定向输入：</p>
+<pre><code class="language-bash">./a.out &lt; in.txt
+</code></pre>
+<p>不知道 Windows 的 <code>cmd</code> 里面怎么重定向。</p>
+<p>不建议使用 <code>freopen</code> 进行重定向，因为不够灵活。
+如果一定要使用的话也要用 <code>#ifdef LOCAL</code> 进行保护，
+不要以为自己交代码的时候肯定能记得删。</p>
+<h2 id="_2">调试工具</h2>
+<p>阅读 <a href="https://acm.xidian.edu.cn/assets/程序调试.pdf">CP101</a> 调试技巧部分</p>
+<p>注意其中 <code>-fsanitize=undefined</code> 等仅在 linux 环境下适用</p>
+              
+            </div>
+          </div><footer>
+    <div class="rst-footer-buttons" role="navigation" aria-label="Footer Navigation">
+        <a href="../contests/" class="btn btn-neutral float-left" title="比赛"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+        <a href="../environment/" class="btn btn-neutral float-right" title="环境搭建">Next <span class="icon icon-circle-arrow-right"></span></a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <!-- Copyright etc -->
+  </div>
+
+  Built with <a href="https://www.mkdocs.org/">MkDocs</a> using a <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
+</footer>
+          
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+
+  <div class="rst-versions" role="note" aria-label="Versions">
+  <span class="rst-current-version" data-toggle="rst-current-version">
+    
+    
+      <span><a href="../contests/" style="color: #fcfcfc">&laquo; Previous</a></span>
+    
+    
+      <span><a href="../environment/" style="color: #fcfcfc">Next &raquo;</a></span>
+    
+  </span>
+</div>
+    <script>var base_url = '..';</script>
+    <script src="../js/theme_extra.js" defer></script>
+    <script src="../js/theme.js" defer></script>
+      <script src="../search/main.js" defer></script>
+    <script defer>
+        window.onload = function () {
+            SphinxRtdTheme.Navigation.enable(true);
+        };
+    </script>
+
+</body>
+</html>
