@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       <link rel="shortcut icon" href="../img/favicon.ico" />
-    <title>提问须知 - SMU-XCPC Wiki</title>
+    <title>提问须知 - SMU XCPC Wiki</title>
     <link rel="stylesheet" href="../css/theme.css" />
     <link rel="stylesheet" href="../css/theme_extra.css" />
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/styles/github.min.css" />
@@ -31,7 +31,7 @@
     <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
     <div class="wy-side-scroll">
       <div class="wy-side-nav-search">
-          <a href=".." class="icon icon-home"> SMU-XCPC Wiki
+          <a href=".." class="icon icon-home"> SMU XCPC Wiki
         </a><div role="search">
   <form id ="rtd-search-form" class="wy-form" action="../search.html" method="get">
       <input type="text" name="q" placeholder="Search docs" title="Type search term here" />
@@ -72,9 +72,13 @@
                 <li class="toctree-l1"><a class="reference internal" href="../%E8%81%94%E7%B3%BB/">联系</a>
                 </li>
               </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../%E8%B5%84%E6%96%99/">资料</a>
+                </li>
+              </ul>
               <p class="caption"><span class="caption-text">训练计划</span></p>
               <ul>
-                  <li class="toctree-l1"><a class="reference internal" href="../%E8%AE%AD%E7%BB%83%E8%AE%A1%E5%88%92/%E8%AE%AD%E7%BB%83%E8%AE%A1%E5%88%92/">训练计划</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../%E8%AE%AD%E7%BB%83%E8%AE%A1%E5%88%92/2023%20Spring/">2023 Spring</a>
                   </li>
               </ul>
               <p class="caption"><span class="caption-text">队员</span></p>
@@ -93,7 +97,7 @@
     <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
       <nav class="wy-nav-top" role="navigation" aria-label="Mobile navigation menu">
           <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
-          <a href="..">SMU-XCPC Wiki</a>
+          <a href="..">SMU XCPC Wiki</a>
         
       </nav>
       <div class="wy-nav-content">
@@ -110,49 +114,23 @@
             <div class="section" itemprop="articleBody">
               
                 <h1 id="_1">提问须知</h1>
-<p>本文档适用于在程序设计竞赛实训基地管理的即时通信系统群组中的任何提问。</p>
 <h2 id="_2">一般注意事项</h2>
-<p>参阅群文件中 <code>提问的智慧.pdf</code>。</p>
+<p><img alt="image-20230210195738674" src="https://s2.loli.net/2023/02/10/vlnIDAQp6s3qLEW.png" /></p>
+<p><img alt="image-20230210195946219" src="https://s2.loli.net/2023/02/10/1ouqx6BMWb4VAS8.png" /></p>
+<p><img alt="image-20230210200021972" src="https://s2.loli.net/2023/02/10/dLB6RYDTSGwa5Ok.png" /></p>
+<p><img alt="image-20230210200050034" src="https://s2.loli.net/2023/02/10/MmCO7GIUBHb3kli.png" /></p>
+<p>详情请阅读 <code>提问的智慧.pdf</code>。</p>
 <p>可以私信管理员，但管理员有权选择不回，或者在群里公开回答。</p>
 <h2 id="_3">体育道德和学术道德规范</h2>
-<p>禁止问任何正在进行的比赛中的任何题目。违者直接移除出群，
-且管理员有权将相关信息移送比赛组织方。</p>
+<p>禁止问任何正在进行的比赛中的任何题目。违者直接移除出群，且管理员有权将相关信息移送比赛组织方。</p>
 <h2 id="_4">贴代码注意事项</h2>
-<p>本小节适用于所有“为什么我的程序崩溃/输出不符合预期”类型的问题。</p>
-<p>首先删掉你程序里所有的非 ASCII 字符。然后打开
-<a href="https://www.onlinegdb.com">www.onlinegdb.com</a>，
-按下列步骤操作：</p>
-<ul>
-<li>如果你看左边栏不顺眼，点击形如 <code>&lt;</code> 的按钮把它关掉。</li>
-<li>在右上角选择语言，C 就选 C，C++ 就选 C++ 14 或者 17，
-不要选别的乱七八糟的东西。</li>
-<li>点击右上角的齿轮按钮，然后点击 <code>Extra Compiler Flags</code> 按钮，
-输入 <code>-Wall -Wextra -Werror=vla -g -fsanitize=address,undefined -fno-sanitize-recover</code>，确认。然后点击 <code>Done</code> 按钮。<ul>
-<li>如果你本地的编译器支持这些选项，就不需要用在线工具了，
-  本地编译时使用这些选项即可。</li>
-</ul>
-</li>
-<li>把你的代码粘贴到上半部分的编辑器中。</li>
-<li>在下半部分，点击 <code>input</code>，在 <code>Standard Input</code> 那里选择 <code>Text</code>，
-然后在下面出现的文本框里粘贴你要给你的程序输入的东西。</li>
-<li>点击左上角 <code>Run</code> 按钮。</li>
-<li>点击 <code>input</code> 右边的 <code>stderr</code>，根据里面的错误信息修改你的代码。<ul>
-<li>编译错误的代码严禁拿来问人。</li>
-<li>尽量修改代码以避免编译警告，如果实在避免不了，
-  你要自己论证这个警告并未反映程序中实际存在的 bug。否则不许拿来问人。</li>
-<li>运行时，地址检查器或者未定义行为检查器报警 (警告信息通常包含
-  <code>runtime error:</code>) 的程序严禁拿来问人。</li>
-</ul>
-</li>
-<li>看一下 <code>stdout</code> 里面的东西和你的预期，以及你本地的输出是否相同。
-如果不同的话，问人的时候记得说明。</li>
-</ul>
-<p>超过 5 行的代码必须用 <a href="https://paste.mozilla.org">paste.mozilla.org</a>
-或者类似的在线工具粘贴，然后把代码链接发到群里。
-不要恶意压行 (按 Linux 内核代码规范使用 <code>clang-format</code> 格式化后超过 5 行
-就算超过 5 行)。</p>
+<p><strong>不要用手机拍屏幕</strong></p>
+<p><strong>不要用手机拍屏幕</strong></p>
+<p><strong>不要用手机拍屏幕</strong></p>
+<p>短代码请使用截图工具</p>
+<p>超过 20 行的代码必须用 <a href="https://paste.mozilla.org">paste.mozilla.org</a>或者类似的在线工具粘贴，然后把代码链接发到群里。
+不要恶意压行 (按 Linux 内核代码规范使用 <code>clang-format</code> 格式化后超过 20  行就算超过 20 行)。</p>
 <p>请贴可以直接编译运行的代码，不要让别人浪费时间给你补头文件之类的东西。</p>
-<p>不按本节注意事项贴代码的，第一次口头警告，第二次禁言，第三次移除出群。</p>
               
             </div>
           </div><footer>
