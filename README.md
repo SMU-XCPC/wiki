@@ -119,3 +119,9 @@ mkdocs gh-deploy
 
 最后执行，更新网页，因为pages是静态服务，所以更新会有一些延迟
 
+Github国内访问不太稳定，这是正确推送的截图
+
+![image-20230210184931515](https://s2.loli.net/2023/02/10/USh4DtkCJfEQ72w.png)
+
+![image-20230210185013636](https://s2.loli.net/2023/02/10/qBhoztaWDAvTVdu.png)
+
