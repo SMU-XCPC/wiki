@@ -24,7 +24,7 @@ g++，安装后一般无需额外配置
 
 第一步，下载按照下列之一，建议装64位的，建议选 TDM-gcc，根据经验编译的会快一点，也比较好装。
 
-1. [TDM-gcc](https://jmeubank.github.io/tdm-gcc/) 也可以下载群文件工具目录中有 `tdm-gcc-10.3.0-2.exe`
+1. [TDM-gcc](https://jmeubank.github.io/tdm-gcc/) 
 2. [Mingw64](https://www.mingw-w64.org/downloads/)
 3. [Mingw](https://sourceforge.net/projects/mingw/)
 
