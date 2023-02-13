@@ -35,6 +35,17 @@ pip install mkdocs
 
 MkDocs 的使用方法可以通过`mkdocs -h`查看，也可以[ MkDocs 文档开发教程](https://mkdocs-like-code.readthedocs.io/zh_CN/latest/)。但是本项目不需要过于复杂的功能只看本教程也可以学会
 
+这里我们使用了一款主题，所以要安装这个主题
+```sh
+pip install mkdocs mkdocs-material
+```
+
+如果安装不上或者安装速度慢可以尝试更换安装源
+```sh
+pip install --trusted-host pypi.douban.com -i http://pypi.douban.com/simple/ mkdocs mkdocs-material
+
+```
+
 ---
 
 克隆项目之前要先加入组织，加入组织请私信管理员
