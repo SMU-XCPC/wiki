@@ -10,7 +10,7 @@ SMUOJ：<https://acm.swun.edu.cn/>
 
 CodeForces：<https://codeforces.com/group/L9GOcnr1dm>
 
-项目地址：<https://smu-xcpc.github.io/wiki/>
+项目地址：<https://github.com/SMU-XCPC/wiki>
 
 你可以在这里记录的你比赛历程，训练内容，心得体会，甚至可以写写博客
 
