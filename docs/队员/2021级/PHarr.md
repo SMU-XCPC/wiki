@@ -16,6 +16,10 @@ email：xin.mai@forxmail.com
 
 ---
 
+## 易错点
+
+1. 在需要用差分维护区间修改的情况下，如果要进行离散化，离散化的值不应该是$[l,r]$而是$[l,r+1]$。
+
 ## 获奖情况
 
 - 2018 NOIP 省二
@@ -49,7 +53,9 @@ email：xin.mai@forxmail.com
 
 现场赛要7T才能拿铜，不得不说自己的水平离拿牌还有很大的差距，并且这套题的英文也是很难懂的。
 
-**2.11 AtCoder Beginner Contest 289**
+**2.11 AtCoder Beginner Contest 289 5T**
+
+[题解](https://www.cnblogs.com/PHarr/p/17121235.html)
 
 这套比赛总体来说打的中规中矩把，但是E题的写法我写的太复杂了，导致被卡了参数不得不使用了更优秀的剪枝和更好的哈希函数。然后这套比赛的B题 也是我打过的atc中读题比较困难的，可能跟没有文化背景有关？今天一天读题都不太顺~~
 
@@ -58,6 +64,12 @@ email：xin.mai@forxmail.com
 [题解](https://www.cnblogs.com/PHarr/p/17118367.html)
 
 这套题总体还算简单，一共用了三个小时差不多就做完了
+
+**2.15 2020 CCPC Henan 4T**
+
+[题解](https://www.cnblogs.com/PHarr/p/17124729.html)
+
+比赛中规中矩吧。不过中间因为离散化的问题WA了一发比较可惜，看了一眼现场赛的榜应该是金尾，没能解出5题还是比较可惜。
 
 ## To Do List
 
@@ -79,4 +91,5 @@ email：xin.mai@forxmail.com
 
 - [ ] 重新学习KMP
 - [ ] 重新学习Tire
+- [x] AtCoder Beginner Contest 补题
 
