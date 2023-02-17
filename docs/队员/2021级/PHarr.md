@@ -71,6 +71,12 @@ email：xin.mai@forxmail.com
 
 比赛中规中矩吧。不过中间因为离散化的问题WA了一发比较可惜，看了一眼现场赛的榜应该是金尾，没能解出5题还是比较可惜。
 
+**2.17 The 4th Hangzhou Normal University Freshman**
+
+[题解](https://www.cnblogs.com/PHarr/p/17131773.html)
+
+几乎是卡着最后的时间AK了，看了看榜似乎现场赛可以夺冠？不过新生赛罢了，看cf上的大哥三个小时就能ak了，前期做题有点慢说实话。
+
 ## To Do List
 
 - [x] 2022 CCPC 女生赛 补题
