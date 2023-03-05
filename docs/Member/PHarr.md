@@ -77,13 +77,25 @@ email：xin.mai@forxmail.com
 
 几乎是卡着最后的时间AK了，看了看榜似乎现场赛可以夺冠？不过新生赛罢了，看cf上的大哥三个小时就能ak了，前期做题有点慢说实话。
 
+### 2023 Spring
+
+**3.15 SMU Spring 2023 Recover Contest Round 1 7T**
+
+恢复性训练第一场，读题一般手感一般，还是需要联系读题和手速
+
+**3.15 2022 ICPC Taoyuan（UCUP）3T**
+
+这套算是着这几场比较简单的了，可惜时间不太充足只做了三道题，如果时间给够组队打应该有5到6题的水平
+
+**3.15 AtCoder Beginner Contest 292 4T**
+
+今天的最后一套比赛，感觉没有打出该有的水平。f是一个比较巧妙的计算几何，而且还有比较高的精度要求。
+
 ## To Do List
 
 - [x] 2022 CCPC 女生赛 补题
 - [ ] 2022 ICPC 南京 补题
-- [ ] 2022 ICPC Poland 补题
 - [ ] 2022 ICPC 香港 补题
-- [ ] 2019 ICPC 雅加达 补题
 - [ ] 2019 ICPC 银川 补题
 - [ ] 2021 ICPC Latin American 补题
 - [ ] vp Hello 2023
@@ -94,7 +106,6 @@ email：xin.mai@forxmail.com
     - [ ] 4 补题
     - [ ] 5 补题
     - [ ] 6 补题
-
 - [ ] 重新学习KMP
 - [ ] 重新学习Tire
 - [x] AtCoder Beginner Contest 补题
