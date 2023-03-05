@@ -10,8 +10,11 @@ SMUOJ：<https://acm.swun.edu.cn/>
 
 CodeForces：<https://codeforces.com/group/L9GOcnr1dm>
 
+Vjudge：<https://vjudge.net/group/smuxcpc>
+
 项目地址：<https://github.com/SMU-XCPC/wiki>
 
 你可以在这里记录的你比赛历程，训练内容，心得体会，甚至可以写写博客
 
 本项目从2023春季开始更新每周的固定训练计划
+

@@ -81,6 +81,8 @@ email：xin.mai@forxmail.com
 
 **3.15 SMU Spring 2023 Recover Contest Round 1 7T**
 
+[题解](https://www.cnblogs.com/PHarr/p/17180708.html)
+
 恢复性训练第一场，读题一般手感一般，还是需要联系读题和手速
 
 **3.15 2022 ICPC Taoyuan（UCUP）3T**
@@ -89,15 +91,15 @@ email：xin.mai@forxmail.com
 
 **3.15 AtCoder Beginner Contest 292 4T**
 
+[题解](https://www.cnblogs.com/PHarr/p/17181619.html)
+
 今天的最后一套比赛，感觉没有打出该有的水平。f是一个比较巧妙的计算几何，而且还有比较高的精度要求。
+
+补题的时候发现E题想复杂了，其实可以不用 Flyod 直接用用 bfs 就行。
 
 ## To Do List
 
 - [x] 2022 CCPC 女生赛 补题
-- [ ] 2022 ICPC 南京 补题
-- [ ] 2022 ICPC 香港 补题
-- [ ] 2019 ICPC 银川 补题
-- [ ] 2021 ICPC Latin American 补题
 - [ ] vp Hello 2023
 - [ ] 2023 牛客寒假营
     - [ ] 1 补题
