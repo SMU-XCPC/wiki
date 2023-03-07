@@ -99,7 +99,11 @@ email：xin.mai@forxmail.com
 
 **3.7 SMU Spring 2023 Trial Contest Round 2 4.95T**
 
-一套来自 OI的题目，前期做的不太顺利，这套题的 B 题我倒是想出来了最简单的最优秀的算法
+[题解](https://www.cnblogs.com/PHarr/p/17190077.html)
+
+一套来自 OI的题目，前期做的不太顺利，这套题的 B 题我倒是想出来了最简单的最优秀的算法。
+
+补题的时候发现G题是我CSP-S 2019时写过的题目，并且我赛场上拿到了95分，但是今天只拿到了50分，我是不是智商退化了？
 
 ## To Do List
 
