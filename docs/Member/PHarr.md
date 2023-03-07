@@ -79,23 +79,27 @@ email：xin.mai@forxmail.com
 
 ### 2023 Spring
 
-**3.15 SMU Spring 2023 Recover Contest Round 1 7T**
+**3.4 SMU Spring 2023 Recover Contest Round 1 7T**
 
 [题解](https://www.cnblogs.com/PHarr/p/17180708.html)
 
 恢复性训练第一场，读题一般手感一般，还是需要联系读题和手速
 
-**3.15 2022 ICPC Taoyuan（UCUP）3T**
+**3.4 2022 ICPC Taoyuan（UCUP）3T**
 
 这套算是着这几场比较简单的了，可惜时间不太充足只做了三道题，如果时间给够组队打应该有5到6题的水平
 
-**3.15 AtCoder Beginner Contest 292 4T**
+**3.4 AtCoder Beginner Contest 292 4T**
 
 [题解](https://www.cnblogs.com/PHarr/p/17181619.html)
 
 今天的最后一套比赛，感觉没有打出该有的水平。f是一个比较巧妙的计算几何，而且还有比较高的精度要求。
 
 补题的时候发现E题想复杂了，其实可以不用 Flyod 直接用用 bfs 就行。
+
+**3.7 SMU Spring 2023 Trial Contest Round 2 4.95T**
+
+一套来自 OI的题目，前期做的不太顺利，这套题的 B 题我倒是想出来了最简单的最优秀的算法
 
 ## To Do List
 
