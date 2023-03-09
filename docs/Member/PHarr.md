@@ -105,6 +105,12 @@ email：xin.mai@forxmail.com
 
 补题的时候发现G题是我CSP-S 2019时写过的题目，并且我赛场上拿到了95分，但是今天只拿到了50分，我是不是智商退化了？
 
+**3.9 AtCoder Beginner Contest 052 AK**
+
+[题解](https://www.cnblogs.com/PHarr/p/17199169.html)
+
+拿来练手速的题目，感觉写的还是有点慢了。D题一开始想错了以为是 DP,但实际上是贪心。
+
 ## To Do List
 
 - [x] 2022 CCPC 女生赛 补题

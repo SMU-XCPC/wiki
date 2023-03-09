@@ -27,8 +27,8 @@
 | ---- | ------------------------------------------------------------ |
 | 3.4  | [SMU Spring 2023 Recover Contest Round 1](https://codeforces.com/group/L9GOcnr1dm/contest/430647) |
 | 3.7  | [SMU Spring 2023 Recover Contest Round 2](https://vjudge.net/contest/545810) |
-| 3.11 | 校赛验题赛                                                   |
-| 3.14 | SMU Spring 2023 Recover Contest Round 3                      |
+| 3.11 | [2023 CCCC-GPLT USST 选拔赛](https://ac.nowcoder.com/acm/contest/52244) |
+| 3.14 | 校赛验题赛                                                   |
 |      |                                                              |
 |      |                                                              |
 |      |                                                              |
