@@ -16,5 +16,7 @@ Vjudge：<https://vjudge.net/group/smuxcpc>
 
 你可以在这里记录的你比赛历程，训练内容，心得体会，甚至可以写写博客
 
+[使用指南](./About/guide.md)
+
 本项目从2023春季开始更新每周的固定训练计划
 
