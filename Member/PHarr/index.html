@@ -934,6 +934,7 @@
 <h2 id="_1">易错点</h2>
 <ol>
 <li>在需要用差分维护区间修改的情况下，如果要进行离散化，离散化的值不应该是<span class="arithmatex">\([l,r]\)</span>而是<span class="arithmatex">\([l,r+1]\)</span>。</li>
+<li>在 CF 上<code>unordered_map</code>会被Hack，导致复杂度退化到<span class="arithmatex">\(O(N)\)</span>。</li>
 </ol>
 <h2 id="_2">获奖情况</h2>
 <ul>
@@ -997,10 +998,13 @@
 <p>不过这套题让我 觉得最有意思的点就是F题，在要维护两种权值的情况下，可用类似字符串哈希的方式把两个全职合并成一个权值。</p>
 <p><strong>3.9 AtCoder Beginner Contest 293</strong></p>
 <p>打这套题的时候好困，这把狠狠的掉分了。</p>
+<p><strong>3.13 Hello 2023 3T</strong></p>
+<p><a href="https://www.cnblogs.com/PHarr/p/17220292.html">题解</a></p>
+<p>这套题算是正常发挥了吧，唯一有点可惜的就是 umap 被卡掉了，问了群友得到的结论是，因为 umap 的哈希函数是固定的，所以可以通过制造哈希冲突的方式使得 umap 的复杂度退化为<span class="arithmatex">\(O(N)\)</span>。</p>
 <h2 id="to-do-list">To Do List</h2>
 <ul class="task-list">
 <li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled checked/><span class="task-list-indicator"></span></label> 2022 CCPC 女生赛 补题</li>
-<li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled/><span class="task-list-indicator"></span></label> vp Hello 2023</li>
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled checked/><span class="task-list-indicator"></span></label> vp Hello 2023</li>
 <li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled/><span class="task-list-indicator"></span></label> 2023 牛客寒假营<ul class="task-list">
 <li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled/><span class="task-list-indicator"></span></label> 1 补题</li>
 <li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled/><span class="task-list-indicator"></span></label> 2 补题</li>
@@ -1012,7 +1016,6 @@
 </li>
 <li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled/><span class="task-list-indicator"></span></label> 重新学习KMP</li>
 <li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled/><span class="task-list-indicator"></span></label> 重新学习Tire</li>
-<li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled checked/><span class="task-list-indicator"></span></label> AtCoder Beginner Contest 补题</li>
 </ul>
 
 
