@@ -19,6 +19,7 @@ email：xin.mai@forxmail.com
 ## 易错点
 
 1. 在需要用差分维护区间修改的情况下，如果要进行离散化，离散化的值不应该是$[l,r]$而是$[l,r+1]$。
+2. 在 CF 上`unordered_map`会被Hack，导致复杂度退化到$O(N)$。
 
 ## 获奖情况
 
@@ -121,10 +122,16 @@ email：xin.mai@forxmail.com
 
 打这套题的时候好困，这把狠狠的掉分了。
 
+**3.13 Hello 2023 3T**
+
+[题解](https://www.cnblogs.com/PHarr/p/17220292.html)
+
+这套题算是正常发挥了吧，唯一有点可惜的就是 umap 被卡掉了，问了群友得到的结论是，因为 umap 的哈希函数是固定的，所以可以通过制造哈希冲突的方式使得 umap 的复杂度退化为$O(N)$。
+
 ## To Do List
 
 - [x] 2022 CCPC 女生赛 补题
-- [ ] vp Hello 2023
+- [x] vp Hello 2023
 - [ ] 2023 牛客寒假营
     - [ ] 1 补题
     - [ ] 2 补题
@@ -134,5 +141,4 @@ email：xin.mai@forxmail.com
     - [ ] 6 补题
 - [ ] 重新学习KMP
 - [ ] 重新学习Tire
-- [x] AtCoder Beginner Contest 补题
 
