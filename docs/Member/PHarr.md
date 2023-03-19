@@ -20,6 +20,10 @@ email：xin.mai@forxmail.com
 
 1. 在需要用差分维护区间修改的情况下，如果要进行离散化，离散化的值不应该是$[l,r]$而是$[l,r+1]$。
 2. 在 CF 上`unordered_map`会被Hack，导致复杂度退化到$O(N)$。
+3. `multiset::erase()`函数可以接受三种参数
+    1. `void erase (iterator position_of_iterator);`删除特定位置的参数
+    2. `size_type erase (const value_type& contant_value);`删除所有此值的实例
+    3. `void erase (iterator starting_iterator, iterator ending_iterator);`删除两个迭代器之间的所有元素
 
 ## 获奖情况
 
@@ -120,7 +124,9 @@ email：xin.mai@forxmail.com
 
 **3.9 AtCoder Beginner Contest 293**
 
-打这套题的时候好困，这把狠狠的掉分了。
+[题解](https://www.cnblogs.com/PHarr/p/17234336.html)
+
+打这套题的时候好困，这把狠狠的掉分了。补题的时候发现其实E题还是蛮简单的。
 
 **3.13 Hello 2023 3T**
 
