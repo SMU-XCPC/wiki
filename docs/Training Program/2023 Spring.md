@@ -29,7 +29,7 @@
 | 3.7  | [SMU Spring 2023 Recover Contest Round 2](https://vjudge.net/contest/545810) |
 | 3.11 | [2023 CCCC-GPLT USST 选拔赛](https://ac.nowcoder.com/acm/contest/52244) |
 | 3.14 | 校赛验题赛                                                   |
-|      |                                                              |
+| 3.21 | [SMU Spring 2023 Trial Contest Round 1](https://codeforces.com/group/L9GOcnr1dm/contest/429882) |
 |      |                                                              |
 |      |                                                              |
 |      |                                                              |
@@ -41,11 +41,11 @@
 
 
 
-| 题单                                                         | 截止日期         |
-| ------------------------------------------------------------ | ---------------- |
-| [蓝桥杯题单（2020-2022 省 B）](https://vjudge.net/contest/546272) | 2023-03-20 00:00 |
-|                                                              |                  |
-|                                                              |                  |
+| 题单                                             | 截止日期 |
+| ------------------------------------------------ | -------- |
+| [第一周题单 DP](https://vjudge.net/article/3518) | 3.26     |
+|                                                  |          |
+|                                                  |          |
 
 
 
