@@ -122,7 +122,7 @@ email：xin.mai@forxmail.com
 
 不过这套题让我 觉得最有意思的点就是F题，在要维护两种权值的情况下，可用类似字符串哈希的方式把两个全职合并成一个权值。
 
-**3.9 AtCoder Beginner Contest 293**
+**3.9 AtCoder Beginner Contest 293 4T**
 
 [题解](https://www.cnblogs.com/PHarr/p/17234336.html)
 
@@ -133,6 +133,12 @@ email：xin.mai@forxmail.com
 [题解](https://www.cnblogs.com/PHarr/p/17220292.html)
 
 这套题算是正常发挥了吧，唯一有点可惜的就是 umap 被卡掉了，问了群友得到的结论是，因为 umap 的哈希函数是固定的，所以可以通过制造哈希冲突的方式使得 umap 的复杂度退化为$O(N)$。
+
+**3.20 Codeforces Round 859 (Div. 4) 7T**
+
+[题解](https://www.cnblogs.com/PHarr/p/17237610.html)
+
+好久没有打 cf 了还有点手生，今天这套题目总体不难，交互题把二分的答案输错了，白吃一个罚时。G题猜了一个结论，但是没想明白怎么证明。学妹好强哇，要加训了。
 
 ## To Do List
 
