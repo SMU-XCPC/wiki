@@ -19,7 +19,11 @@
 
 所有比赛、题单完成情况都会计入到rating中，rating将影响之后各种比赛名额的分配。
 
+## rating
 
+[2023 Spring]() 标准 ICPC 赛制
+
+[2023 Spring Trial](https://codeforces.com/group/L9GOcnr1dm/customrating/4874)练习赛，赛制随机
 
 ## 比赛
 
