@@ -165,7 +165,7 @@ email：xin.mai@forxmail.com
 
 **3.20-3.26 第一周题单 DP 专题**
 
-
+[题解](https://www.cnblogs.com/PHarr/p/17262905.html)
 
 都是一些比较板的 DP 题，然后复习了一下用 `long long` 手动实现 `__int128`。并且刷题单的过程中找到了 kuangbing 的博客，可以翻翻里面有没有什么好东西。
 
