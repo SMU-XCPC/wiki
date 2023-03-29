@@ -171,6 +171,14 @@ email：xin.mai@forxmail.com
 
 都是一些比较板的 DP 题，然后复习了一下用 `long long` 手动实现 `__int128`。并且刷题单的过程中找到了 kuangbing 的博客，可以翻翻里面有没有什么好东西。
 
+**3.29 AtCoder Beginner Contest 245 6T**
+
+[题解](https://www.cnblogs.com/PHarr/p/17270716.html)
+
+这套题算是 vp 的手感还是很好的，早上起来打比赛思路似乎并没有什么影响。
+
+结合上一场 abc 的表现，水平似乎是在提高。不过这次的 G 题标答的解法还是有点难写，抄了 dls 的代码学会了一个新的小技巧。
+
 ## To Do List
 
 - [x] 2022 CCPC 女生赛 补题
