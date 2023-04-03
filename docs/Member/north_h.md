@@ -4,7 +4,7 @@
 
 **3.21 SMU Spring 2023 Trial Contest Round 1**
 
-[题目链接](https://codeforces.com/group/L9GOcnr1dm/contest/429882)
+[题解](https://blog.nowcoder.net/n/27a23a05a5094a47bf1c8b108ee15ee9)
 
 这张比赛着实不行，第三题想的明明没有问题，但写的时候就有问题，一直卡在那儿
 
