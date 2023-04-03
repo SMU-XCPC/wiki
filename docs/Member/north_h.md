@@ -1,6 +1,6 @@
 # north_h
 
-## 争取多AC一两道题
+## 加油加油！
 
 **3.21 SMU Spring 2023 Trial Contest Round 1**
 
