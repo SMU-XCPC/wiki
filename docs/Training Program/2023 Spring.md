@@ -36,8 +36,8 @@
 | 3.21 | [SMU Spring 2023 Trial Contest Round 1](https://codeforces.com/group/L9GOcnr1dm/contest/429882) |
 | 3.25 | [西南民族大学2023天梯选拔赛](https://pintia.cn/problem-sets/1638703120731238400)       [补题](https://pintia.cn/problem-sets/1639542842588291072) |
 | 3.28 | [西南民族大学 春季 2023 训练赛 2](https://www.nowcoder.com/acm/contest/54281) 密码`smuacm2023` |
-| 4.2  | [西南民族大学 春季 2023 训练赛3](https://www.nowcoder.com/acm/contest/54284) 密码`smuacm2023` |
-|      |                                                              |
+| 4.2  | [西南民族大学 春季 2023 训练赛 3](https://www.nowcoder.com/acm/contest/54284) 密码`smuacm2023` |
+| 4.4  | [西南民族大学 春季 2023 训练赛 4](https://ac.nowcoder.com/acm/contest/55166) 密码`smuacm2023` |
 |      |                                                              |
 |      |                                                              |
 |      |                                                              |
@@ -52,7 +52,7 @@
 | -------------------------------------------------- | -------- |
 | [第一周题单 DP](https://vjudge.net/article/3518)   | 3.26     |
 | [第二周题单 贪心](https://vjudge.net/article/3518) | 4.2      |
-|                                                    |          |
+| [第三周题单 搜索](https://vjudge.net/article/3518) | 4.9      |
 
 
 
