@@ -149,7 +149,11 @@ email：xin.mai@forxmail.com
 
 **3.23 Educational Codeforces Round 145 (Rated for Div. 2) 2T**
 
+[题解](https://www.cnblogs.com/PHarr/p/17284145.html)
+
 有点可惜，赛时只能做两题，其实C题感觉还是比较简单的了
+
+补题的时候发现 D题的 DP 其实不太难想，主要是状态的设计。
 
 **3.25 西南民族大学2023天梯选拔赛 196分**
 
@@ -178,6 +182,26 @@ email：xin.mai@forxmail.com
 这套题算是 vp 的手感还是很好的，早上起来打比赛思路似乎并没有什么影响。
 
 结合上一场 abc 的表现，水平似乎是在提高。不过这次的 G 题标答的解法还是有点难写，抄了 dls 的代码学会了一个新的小技巧。
+
+**4.1 21st UESTC Programming Contest - Preliminary 8T**
+
+队友实力带飞，总榜 rk47，顺利挺进决赛。
+
+**4.2 西南民族大学 春季 2023 训练赛 3**
+
+
+
+**4.4 西南民族大学 春季 2023 训练赛 4 7T**
+
+[题解](https://www.cnblogs.com/PHarr/p/17289568.html)
+
+赛时差一题 ak，这套蓝桥杯赛制的题目还是给的比较简单。最后一道 dp其实也不太难吧，只是网上的题解写的太烂了吧。本质上还是数据结构优化 DP
+
+**4.4 Codeforces Round 863 (Div. 3) 4T**
+
+
+
+赛时只出四题，水平还是欠点，能出 E 但是不能出 D 比较悲伤。赛时我的思路是直接去拼矩形，但是几位大佬的思路都是去减矩形，思维还是略有欠缺。
 
 ## To Do List
 
