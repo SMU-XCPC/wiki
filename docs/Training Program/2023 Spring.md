@@ -42,6 +42,19 @@
 |      |                                                              |
 |      |                                                              |
 
+### 天梯自主训练赛
+
+1.  <https://pintia.cn/problem-sets/1643540537816539136>
+2.  <https://pintia.cn/problem-sets/1643541873110966272>
+3.  <https://pintia.cn/problem-sets/1643542165139386368>
+4.  <https://pintia.cn/problem-sets/1643542420073381888>
+5.  <https://pintia.cn/problem-sets/1643542630128320512>
+6.  <https://pintia.cn/problem-sets/1643542843526111232>
+7.  <https://pintia.cn/problem-sets/1643543016889282560>
+8.  <https://pintia.cn/problem-sets/1643543208883556352>
+9.  <https://pintia.cn/problem-sets/1643543379423956992>
+10.  <https://pintia.cn/problem-sets/1643543590292582400>
+
 
 
 ## 题单
