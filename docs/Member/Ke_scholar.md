@@ -2,9 +2,15 @@
 
 ## 目标:每次多对一道
 
+## 西南民族大学 春季 2023 训练赛3 (6T/15)
+
+[题解](https://www.cnblogs.com/Kescholar/p/17285022.html)
+
+
+
 ## 西南民族大学 春季 2023 训练赛 2 (534/800)
 
-[题解]([西南民族大学 春季 2023 训练赛 2 - Ke_scholar - 博客园 (cnblogs.com)](https://www.cnblogs.com/Kescholar/p/17272106.html))
+[题解](https://www.cnblogs.com/Kescholar/p/17272106.html)
 
 
 
