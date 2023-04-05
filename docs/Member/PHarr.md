@@ -199,7 +199,7 @@ email：xin.mai@forxmail.com
 
 **4.4 Codeforces Round 863 (Div. 3) 4T**
 
-
+[题解](https://www.cnblogs.com/PHarr/p/17289813.html)
 
 赛时只出四题，水平还是欠点，能出 E 但是不能出 D 比较悲伤。赛时我的思路是直接去拼矩形，但是几位大佬的思路都是去减矩形，思维还是略有欠缺。
 
