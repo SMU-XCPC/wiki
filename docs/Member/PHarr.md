@@ -203,6 +203,12 @@ email：xin.mai@forxmail.com
 
 赛时只出四题，水平还是欠点，能出 E 但是不能出 D 比较悲伤。赛时我的思路是直接去拼矩形，但是几位大佬的思路都是去减矩形，思维还是略有欠缺。
 
+**4.6 Educational Codeforces Round 146 (Rated for Div. 2) 2T**
+
+[题解](https://www.cnblogs.com/PHarr/p/17297514.html)
+
+好困，看到 unr 写了两题就直接去睡觉了，但是赛后看了看 C题可能赛时 20 分钟就能出。
+
 ## To Do List
 
 - [x] 2022 CCPC 女生赛 补题
