@@ -25,9 +25,12 @@
 [题解](https://blog.nowcoder.net/n/f7e8df3b304041a390268accf7fef986)
 
 ### To Do List
-  素数筛法
+  ~~素数筛法~~
   
   比赛涉及不会的图论知识
   
   ~~训练4补题~~
 
+  博弈论
+
+  数位DP
