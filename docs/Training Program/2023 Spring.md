@@ -38,7 +38,7 @@
 | 3.28 | [西南民族大学 春季 2023 训练赛 2](https://www.nowcoder.com/acm/contest/54281) 密码`smuacm2023` |
 | 4.2  | [西南民族大学 春季 2023 训练赛 3](https://www.nowcoder.com/acm/contest/54284) 密码`smuacm2023` |
 | 4.4  | [西南民族大学 春季 2023 训练赛 4](https://ac.nowcoder.com/acm/contest/55166) 密码`smuacm2023` |
-|      |                                                              |
+| 4.9  | [西南民族大学 春季 2023 训练赛 5](https://pintia.cn/problem-sets/1644899588408238080) |
 |      |                                                              |
 |      |                                                              |
 
