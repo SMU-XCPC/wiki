@@ -34,12 +34,12 @@
 | 3.11 | [2023 CCCC-GPLT USST 选拔赛](https://ac.nowcoder.com/acm/contest/52244) |
 | 3.14 | 校赛验题赛                                                   |
 | 3.21 | [SMU Spring 2023 Trial Contest Round 1](https://codeforces.com/group/L9GOcnr1dm/contest/429882) |
-| 3.25 | [西南民族大学2023天梯选拔赛](https://pintia.cn/problem-sets/1638703120731238400)       [补题](https://pintia.cn/problem-sets/1639542842588291072) |
+| 3.25 | [西南民族大学2023天梯选拔赛](https://pintia.cn/problem-sets/1638703120731238400)， [补题](https://pintia.cn/problem-sets/1639542842588291072) |
 | 3.28 | [西南民族大学 春季 2023 训练赛 2](https://www.nowcoder.com/acm/contest/54281) 密码`smuacm2023` |
 | 4.2  | [西南民族大学 春季 2023 训练赛 3](https://www.nowcoder.com/acm/contest/54284) 密码`smuacm2023` |
 | 4.4  | [西南民族大学 春季 2023 训练赛 4](https://ac.nowcoder.com/acm/contest/55166) 密码`smuacm2023` |
-| 4.9  | [西南民族大学 春季 2023 训练赛 5](https://pintia.cn/problem-sets/1644899588408238080) |
-|      |                                                              |
+| 4.9  | [西南民族大学 春季 2023 训练赛 5](https://pintia.cn/problem-sets/1644899588408238080) ，[补题](https://pintia.cn/problem-sets/1644960722431668224) |
+| 4.11 | [西南民族大学 春季 2023 训练赛 6](https://pintia.cn/problem-sets/1645411514406531072) |
 |      |                                                              |
 
 ### 天梯自主训练赛
@@ -57,6 +57,15 @@
 
 
 
+补题
+
+1.  <https://pintia.cn/problem-sets/1644272336645554176>
+2.  <https://pintia.cn/problem-sets/1645410211290791936>
+3.  <https://pintia.cn/problem-sets/1645410491625496576>
+4.  <https://pintia.cn/problem-sets/1645410690976563200>
+
+
+
 ## 题单
 
 
@@ -66,6 +75,8 @@
 | [第一周题单 DP](https://vjudge.net/article/3518)   | 3.26     |
 | [第二周题单 贪心](https://vjudge.net/article/3518) | 4.2      |
 | [第三周题单 搜索](https://vjudge.net/article/3518) | 4.9      |
+| [第四周题单 数学](https://vjudge.net/article/3518) | 4.16     |
+|                                                    |          |
 
 
 
