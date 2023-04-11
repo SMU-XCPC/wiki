@@ -36,10 +36,16 @@ email：xin.mai@forxmail.com
 ## 目标
 
 - 2023 蓝桥杯 国一
-
 - 2023 RoboCom-CAIP 国一
-
 - 2023 GPLT 个人国三
+
+## 比赛记录
+
+**4.8 十四届蓝桥杯省赛**
+
+感觉难度大幅度下降了
+
+**4.16 21st UESTC Programming Contest**
 
 ## 训练记录
 
@@ -208,6 +214,22 @@ email：xin.mai@forxmail.com
 [题解](https://www.cnblogs.com/PHarr/p/17297514.html)
 
 好困，看到 unr 写了两题就直接去睡觉了，但是赛后看了看 C题可能赛时 20 分钟就能出。
+
+**4.9 西南民族大学 春季 2023 训练赛 5**
+
+[题解](https://www.cnblogs.com/PHarr/p/17304398.html)
+
+L3-1读错题了，丢到了 12 分，L3-2比赛时没有仔细想忘记写最暴力的 01 背包丢到 19 分。如果把所有的分数的拿满应该是国二的
+
+**4.9 AtCoder Beginner Contest 297**
+
+[题解](https://www.cnblogs.com/PHarr/p/17307631.html)
+
+赛时做出来 E 题，应该是这场比赛比较简单的原因，赛后发现 E F其实都不太难。
+
+**4.11 西南民族大学 春季 2023 训练赛 6**
+
+
 
 ## To Do List
 
