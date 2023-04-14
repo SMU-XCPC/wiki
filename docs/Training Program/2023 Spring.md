@@ -39,7 +39,14 @@
 | 4.2  | [西南民族大学 春季 2023 训练赛 3](https://www.nowcoder.com/acm/contest/54284) 密码`smuacm2023` |
 | 4.4  | [西南民族大学 春季 2023 训练赛 4](https://ac.nowcoder.com/acm/contest/55166) 密码`smuacm2023` |
 | 4.9  | [西南民族大学 春季 2023 训练赛 5](https://pintia.cn/problem-sets/1644899588408238080) ，[补题](https://pintia.cn/problem-sets/1644960722431668224) |
-| 4.11 | [西南民族大学 春季 2023 训练赛 6](https://pintia.cn/problem-sets/1645411514406531072) |
+| 4.11 | [西南民族大学 春季 2023 训练赛 6](https://pintia.cn/problem-sets/1645411514406531072)，[补题](https://pintia.cn/problem-sets/1645716194592415744) |
+| 4.15 | [西南民族大学 春季 2023 训练赛 7](https://pintia.cn/problem-sets/1646744534933696512)，[补题](https://pintia.cn/problem-sets/1646746610250149888) |
+| 4.18 | [西南民族大学 春季 2023 训练赛 8](https://pintia.cn/problem-sets/1646744902476357632)，[补题](https://pintia.cn/problem-sets/1646746373045477376) |
+|      |                                                              |
+|      |                                                              |
+|      |                                                              |
+|      |                                                              |
+|      |                                                              |
 |      |                                                              |
 
 ### 天梯自主训练赛
@@ -54,6 +61,7 @@
 8.  <https://pintia.cn/problem-sets/1643543208883556352>
 9.  <https://pintia.cn/problem-sets/1643543379423956992>
 10.  <https://pintia.cn/problem-sets/1643543590292582400>
+11.  <https://pintia.cn/problem-sets/1645716908525862912>
 
 
 
@@ -63,6 +71,13 @@
 2.  <https://pintia.cn/problem-sets/1645410211290791936>
 3.  <https://pintia.cn/problem-sets/1645410491625496576>
 4.  <https://pintia.cn/problem-sets/1645410690976563200>
+5.  <https://pintia.cn/problem-sets/1646747239299268608>
+6.  <https://pintia.cn/problem-sets/1646747458929815552>
+7.  <https://pintia.cn/problem-sets/1646747770218463232>
+8.  <https://pintia.cn/problem-sets/1646747936413564928>
+9.  <https://pintia.cn/problem-sets/1646748099303555072>
+10.  <https://pintia.cn/problem-sets/1646748399452151808>
+11.  <https://pintia.cn/problem-sets/1646748590204907520>
 
 
 
