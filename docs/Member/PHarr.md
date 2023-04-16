@@ -47,6 +47,14 @@ email：xin.mai@forxmail.com
 
 **4.16 21st UESTC Programming Contest**
 
+Silver Medalist Solver 4 problems
+
+第一次进 985 大学，体验很好。封榜后出了一题很开心。题目没有的读完是比较 sad 的。赛后想了想可以出I和 K。
+
+比较惊喜的是 E 题想要用 python 写，但是没有安装 python 的 IDE，最后用记事本加命令行写完了这道题。
+
+
+
 ## 训练记录
 
 ### 2023 Winter
@@ -241,7 +249,13 @@ L3-1读错题了，丢到了 12 分，L3-2比赛时没有仔细想忘记写最�
 
 L3-1 看漏的一个重要条件有向图，痛失12分，不然这场是有可能拿到第一的。还是要多认真读题。
 
+**4.15 Codeforces Round 866 (Div. 2)**
 
+比较顺利的开出了C题，感觉还是小有进步的。
+
+**4.15 AtCoder Beginner Contest 298**
+
+好困写了四题就下班了。
 
 ## To Do List
 
