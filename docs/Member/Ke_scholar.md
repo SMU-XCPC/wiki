@@ -2,6 +2,10 @@
 
 ## 每次进步一点点()
 
+## 西南民族大学 春季 2023 训练赛 7(8T/15)
+
+[题解](https://www.cnblogs.com/Kescholar/p/17323544.html)
+
 ## 西南民族大学 春季 2023 训练赛 6(8T/15)
 
 [题解](https://www.cnblogs.com/Kescholar/p/17308279.html)
