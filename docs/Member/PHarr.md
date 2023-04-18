@@ -251,6 +251,8 @@ L3-1 看漏的一个重要条件有向图，痛失12分，不然这场是有可�
 
 **4.15 Codeforces Round 866 (Div. 2)**
 
+[题解](https://www.cnblogs.com/PHarr/p/17331571.html)
+
 比较顺利的开出了C题，感觉还是小有进步的。
 
 **4.15 AtCoder Beginner Contest 298**
