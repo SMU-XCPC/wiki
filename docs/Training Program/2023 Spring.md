@@ -42,7 +42,7 @@
 | 4.11 | [西南民族大学 春季 2023 训练赛 6](https://pintia.cn/problem-sets/1645411514406531072)，[补题](https://pintia.cn/problem-sets/1645716194592415744) |
 | 4.15 | [西南民族大学 春季 2023 训练赛 7](https://pintia.cn/problem-sets/1646744534933696512)，[补题](https://pintia.cn/problem-sets/1646746610250149888) |
 | 4.18 | [西南民族大学 春季 2023 训练赛 8](https://pintia.cn/problem-sets/1646744902476357632)，[补题](https://pintia.cn/problem-sets/1646746373045477376) |
-|      |                                                              |
+| 4.23 | [SMU Spring 2023 Trial Contest Round 9](https://codeforces.com/gym/440104) |
 |      |                                                              |
 |      |                                                              |
 |      |                                                              |
