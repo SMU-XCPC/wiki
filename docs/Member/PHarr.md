@@ -280,6 +280,10 @@ L3-1被假题意演了，最近几次的发挥都还算值比较稳定的可以�
 
 **4.21 牛客小白月赛71**
 
+[题解](https://www.cnblogs.com/PHarr/p/17350629.html)
+
+赛时被精度搞心情，最后还是用 python 水过去了，整体来说难度不太高，但是 EF感觉还是一眼没思路。
+
 **4.23 SMU Spring 2023 Trial Contest Round 9**
 
 [题解](https://www.cnblogs.com/PHarr/p/17346626.html)
