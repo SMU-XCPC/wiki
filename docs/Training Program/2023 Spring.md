@@ -44,7 +44,7 @@
 | 4.18 | [西南民族大学 春季 2023 训练赛 8](https://pintia.cn/problem-sets/1646744902476357632)，[补题](https://pintia.cn/problem-sets/1646746373045477376) |
 | 4.23 | [SMU Spring 2023 Trial Contest Round 9](https://codeforces.com/gym/440104) |
 | 4.25 | [SMU Spring 2023 Trial Contest Round 10](https://codeforces.com/gym/440368) |
-|      |                                                              |
+| 5.2  | [SMU Spring 2023 Contest Round 1](https://codeforces.com/group/L9GOcnr1dm/contest/441495) |
 |      |                                                              |
 |      |                                                              |
 |      |                                                              |

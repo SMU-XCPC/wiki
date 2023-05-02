@@ -310,6 +310,22 @@ L3-1被假题意演了，最近几次的发挥都还算值比较稳定的可以�
 
 这套题我自己独立可以写到 C 题，然后看题解补到了 E。不得不说 Edu还是套路多些。
 
+**4.29 2023牛客五一集训派对day1**
+
+**AtCoder Beginner Contest 231**
+
+[题解](https://www.cnblogs.com/PHarr/p/17365559.html)
+
+这套比赛是 vp 的，感觉难度还挺高的。
+
+**4.29 AtCoder Beginner Contest 300**
+
+
+
+赛时没出 E 题，还是比较悲伤的。上分失败了。
+
+
+
 ## To Do List
 
 - [x] 2022 CCPC 女生赛 补题
