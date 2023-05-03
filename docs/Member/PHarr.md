@@ -320,9 +320,11 @@ L3-1被假题意演了，最近几次的发挥都还算值比较稳定的可以�
 
 **4.29 AtCoder Beginner Contest 300**
 
-
+[题解](https://www.cnblogs.com/PHarr/p/17369742.html)
 
 赛时没出 E 题，还是比较悲伤的。上分失败了。
+
+怎么说呢，赛后整理的时候发现这场暴力很多呀。
 
 **5.2 SMU Spring 2023 Contest Round 1**
 
