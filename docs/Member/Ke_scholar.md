@@ -2,6 +2,14 @@
 
 ## 每次进步一点点()
 
+## SMU Spring 2023 Trial Contest Round 10 (3T/7)
+
+[题解](https://www.cnblogs.com/Kescholar/p/17372679.html)
+
+## SMU Spring 2023 Trial Contest Round 9(2T/6)
+
+[题解](https://www.cnblogs.com/Kescholar/p/17354405.html#top)
+
 ## 西南民族大学 春季 2023 训练赛 7(8T/15)
 
 [题解](https://www.cnblogs.com/Kescholar/p/17323544.html)
