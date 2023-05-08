@@ -46,6 +46,16 @@
 | 4.25 | [SMU Spring 2023 Trial Contest Round 10](https://codeforces.com/gym/440368) |
 | 5.2  | [SMU Spring 2023 Contest Round 1](https://codeforces.com/group/L9GOcnr1dm/contest/441495) |
 | 5.3  | [2022-2023 ICPC Asia Pacific - Taoyuan Regional Contest](https://qoj.ac/contest/1124) |
+| 5.7  | [2023 SMU RoboCom-CAIP 选拔赛](https://codeforces.com/group/L9GOcnr1dm/contest/441368) |
+| 5.9  | [SMU Spring 2023 Contest Round 2](https://codeforces.com/group/L9GOcnr1dm/contest/441671) |
+|      |                                                              |
+|      |                                                              |
+|      |                                                              |
+|      |                                                              |
+|      |                                                              |
+|      |                                                              |
+|      |                                                              |
+|      |                                                              |
 |      |                                                              |
 |      |                                                              |
 
