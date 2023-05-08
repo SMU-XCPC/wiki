@@ -340,6 +340,12 @@ L3-1被假题意演了，最近几次的发挥都还算值比较稳定的可以�
 
 这题有两个地方比较难吧，一个是 B 题的推式子，另一个是 D 题的读题。
 
+**5.4 AtCoder Beginner Contest 242**
+
+[题解](https://www.cnblogs.com/PHarr/p/17378464.html)
+
+vp 了一下，只能做四道题还是很丢脸。G是莫队模板？但是不会好焦虑。
+
 ## To Do List
 
 - [x] 2022 CCPC 女生赛 补题
