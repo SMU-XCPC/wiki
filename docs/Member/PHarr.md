@@ -362,6 +362,14 @@ vp 了一下，只能做四道题还是很丢脸。G是莫队模板？但是不�
 
 现场赛金牌，但是同步赛没有榜，没法跟榜做，有些可惜。
 
+**5.8 Codeforces Round 872 (Div. 2)**
+
+小上了一点分，D1好难。
+
+**5.9 SMU Spring 2023 Contest Round 2**
+
+
+
 ## To Do List
 
 - [x] 2022 CCPC 女生赛 补题
