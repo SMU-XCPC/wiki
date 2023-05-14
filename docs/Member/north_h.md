@@ -26,4 +26,10 @@
 [题解](https://blog.nowcoder.net/n/86d4c86ffbdf416a8ee7ca168055cb2c) 
 
 **4.25  SMU Spring 2023 Trial Contest Round 10**
-[题解](https://blog.nowcoder.net/n/dea6eace56584359b276ad626bbf3248) 
+[题解](https://blog.nowcoder.net/n/dea6eace56584359b276ad626bbf3248)
+
+**5.8  SMU Spring 2023 Trial Contest Round 2**
+[题解](https://blog.nowcoder.net/n/9a107a72359e4a0181411dd4c629ef48)
+
+**5.13  SMU Spring 2023 Trial Contest Round 3**
+[题解](https://blog.nowcoder.net/n/4799ace5cec94dacadee9c6c3a43d12f)
