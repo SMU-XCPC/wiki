@@ -33,6 +33,7 @@ email：xin.mai@forxmail.com
 - 2022 蓝桥杯 国二
 - 2022 RoboCom-CAIP 国三
 - 2023 CCCC-GPLT 个人国二
+- The 2023 ICPC China Shaanxi National Invitational Programming Contest Bronze Medalist
 
 ## 目标
 
@@ -63,6 +64,16 @@ Silver Medalist Solver 4 problems
 首先反思自己，这场比赛赛场环境比较差，但是没有完全发挥出水平，赛时忘记看榜了，导致硬磕了好久的 L2-3直到最后也只有 3 分，没有去写更好做的 L3-2。
 
 今年是学校的滑铁卢了，我作为队长也有很大的责任，没能很好的起到带头作用，在日常训练的中对队员的要求太低了。我认为首先应该提高自己的训练强度，其次严格要求各位队员。希望明年可以重新夺回四川省冠军。
+
+**5.14 The 2023 ICPC China Shaanxi National Invitational Programming Contest Bronze**
+
+Bronze Medalist Solver 4 problems
+
+算是生涯第一块牌子了，队友很给力，前三题出的都非常快，三题出了之后就已经稳定有牌了，只是比较可惜的是这次又是手慢了。不过比起之前手慢打铁，还算是比较高兴的。
+
+**5.20 第二十一届腾讯杯四川大学程序设计大赛**
+
+
 
 ## 训练记录
 
@@ -328,13 +339,9 @@ L3-1被假题意演了，最近几次的发挥都还算值比较稳定的可以�
 
 **5.2 SMU Spring 2023 Contest Round 1**
 
-
-
 很有难度的一套比赛，赛后看了牛客的榜感觉自己还有很大的差距。
 
 **5.3 2022-2023 ICPC Asia Pacific - Taoyuan Regional Contest**
-
-
 
 桃园区域赛，感觉还是比大陆赛区似乎友好一些？看了原榜应该是铜牌比较靠前的。
 
@@ -368,7 +375,21 @@ vp 了一下，只能做四道题还是很丢脸。G是莫队模板？但是不�
 
 **5.9 SMU Spring 2023 Contest Round 2**
 
+[题解](https://www.cnblogs.com/PHarr/p/17416218.html)
 
+这套比赛是今年的 ICPC 湖北省赛，题目质量很好，现场赛是金尾。这是去西安的最后一次训练赛，状态还是不错的。
+
+**5.13 AtCoder Beginner Contest 301**
+
+[]()
+
+第二天就是西安邀请赛了，所以打的不太久，打完没多久就困了。
+
+**5.16 2023 SMU SCPC 选拔赛**
+
+[题解](https://www.cnblogs.com/PHarr/p/17416213.html)
+
+题目来源是今年的 CCPC 河南省赛，看了一下原榜，现场赛可以拿到亚军。再好好准备一下，正确省赛拿金牌！
 
 ## To Do List
 
@@ -381,6 +402,6 @@ vp 了一下，只能做四道题还是很丢脸。G是莫队模板？但是不�
     - [ ] 4 补题
     - [ ] 5 补题
     - [ ] 6 补题
-- [ ] 重新学习KMP
+- [x] 重新学习KMP
 - [ ] 重新学习Tire
 
