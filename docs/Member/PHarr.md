@@ -73,7 +73,9 @@ Bronze Medalist Solver 4 problems
 
 **5.20 第二十一届腾讯杯四川大学程序设计大赛**
 
+Silver Medalist Solver 8 problems
 
+本来有机会摸到金奖的，但是因为我的问题吃了很多的罚时。队友这场十分给力，前期一直追着彭佬。在练练，希望省赛可以拿金牌
 
 ## 训练记录
 
@@ -381,7 +383,7 @@ vp 了一下，只能做四道题还是很丢脸。G是莫队模板？但是不�
 
 **5.13 AtCoder Beginner Contest 301**
 
-[]()
+[题解](https://www.cnblogs.com/PHarr/p/17420758.html)
 
 第二天就是西安邀请赛了，所以打的不太久，打完没多久就困了。
 
