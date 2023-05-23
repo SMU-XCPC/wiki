@@ -2,6 +2,22 @@
 
 ## 每次进步一点点()
 
+## SMU Spring 2023 Contest Round 3(3T/10)
+
+[题解](https://www.cnblogs.com/Kescholar/p/17399126.html)
+
+## SMU Spring 2023 Contest Round 2(2T/13)
+
+[题解](https://www.cnblogs.com/Kescholar/p/17399112.html)
+
+## 2023 SMU RoboCom-CAIP 选拔赛(160/300)
+
+[题解](https://www.cnblogs.com/Kescholar/p/17399141.html)
+
+## SMU Spring 2023 Contest Round 1(3T/13)
+
+[题解](https://www.cnblogs.com/Kescholar/p/17399105.html)
+
 ## SMU Spring 2023 Trial Contest Round 10 (3T/7)
 
 [题解](https://www.cnblogs.com/Kescholar/p/17372679.html)
