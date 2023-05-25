@@ -27,37 +27,37 @@
 
 ## 比赛
 
-| 日期 | 比赛                                                         |
-| ---- | ------------------------------------------------------------ |
-| 3.4  | [SMU Spring 2023 Recover Contest Round 1](https://codeforces.com/group/L9GOcnr1dm/contest/430647) |
-| 3.7  | [SMU Spring 2023 Recover Contest Round 2](https://vjudge.net/contest/545810) |
-| 3.11 | [2023 CCCC-GPLT USST 选拔赛](https://ac.nowcoder.com/acm/contest/52244) |
-| 3.14 | 校赛验题赛                                                   |
-| 3.21 | [SMU Spring 2023 Trial Contest Round 1](https://codeforces.com/group/L9GOcnr1dm/contest/429882) |
-| 3.25 | [西南民族大学2023天梯选拔赛](https://pintia.cn/problem-sets/1638703120731238400)， [补题](https://pintia.cn/problem-sets/1639542842588291072) |
-| 3.28 | [西南民族大学 春季 2023 训练赛 2](https://www.nowcoder.com/acm/contest/54281) 密码`smuacm2023` |
-| 4.2  | [西南民族大学 春季 2023 训练赛 3](https://www.nowcoder.com/acm/contest/54284) 密码`smuacm2023` |
-| 4.4  | [西南民族大学 春季 2023 训练赛 4](https://ac.nowcoder.com/acm/contest/55166) 密码`smuacm2023` |
-| 4.9  | [西南民族大学 春季 2023 训练赛 5](https://pintia.cn/problem-sets/1644899588408238080) ，[补题](https://pintia.cn/problem-sets/1644960722431668224) |
-| 4.11 | [西南民族大学 春季 2023 训练赛 6](https://pintia.cn/problem-sets/1645411514406531072)，[补题](https://pintia.cn/problem-sets/1645716194592415744) |
-| 4.15 | [西南民族大学 春季 2023 训练赛 7](https://pintia.cn/problem-sets/1646744534933696512)，[补题](https://pintia.cn/problem-sets/1646746610250149888) |
-| 4.18 | [西南民族大学 春季 2023 训练赛 8](https://pintia.cn/problem-sets/1646744902476357632)，[补题](https://pintia.cn/problem-sets/1646746373045477376) |
-| 4.23 | [SMU Spring 2023 Trial Contest Round 9](https://codeforces.com/gym/440104) |
-| 4.25 | [SMU Spring 2023 Trial Contest Round 10](https://codeforces.com/gym/440368) |
-| 5.2  | [SMU Spring 2023 Contest Round 1](https://codeforces.com/group/L9GOcnr1dm/contest/441495) |
-| 5.3  | [2022-2023 ICPC Asia Pacific - Taoyuan Regional Contest](https://qoj.ac/contest/1124) |
-| 5.7  | [2023 SMU RoboCom-CAIP 选拔赛](https://codeforces.com/group/L9GOcnr1dm/contest/441368) |
-| 5.9  | [SMU Spring 2023 Contest Round 2](https://codeforces.com/group/L9GOcnr1dm/contest/441671) |
-|      |                                                              |
-|      |                                                              |
-|      |                                                              |
-|      |                                                              |
-|      |                                                              |
-|      |                                                              |
-|      |                                                              |
-|      |                                                              |
-|      |                                                              |
-|      |                                                              |
+| 日期    | 比赛                                                         |
+| ------- | ------------------------------------------------------------ |
+| 3.4     | [SMU Spring 2023 Recover Contest Round 1](https://codeforces.com/group/L9GOcnr1dm/contest/430647) |
+| 3.7     | [SMU Spring 2023 Recover Contest Round 2](https://vjudge.net/contest/545810) |
+| 3.11    | [2023 CCCC-GPLT USST 选拔赛](https://ac.nowcoder.com/acm/contest/52244) |
+| 3.14    | 校赛验题赛                                                   |
+| 3.21    | [SMU Spring 2023 Trial Contest Round 1](https://codeforces.com/group/L9GOcnr1dm/contest/429882) |
+| 3.25    | [西南民族大学2023天梯选拔赛](https://pintia.cn/problem-sets/1638703120731238400)， [补题](https://pintia.cn/problem-sets/1639542842588291072) |
+| 3.28    | [西南民族大学 春季 2023 训练赛 2](https://www.nowcoder.com/acm/contest/54281) 密码`smuacm2023` |
+| 4.2     | [西南民族大学 春季 2023 训练赛 3](https://www.nowcoder.com/acm/contest/54284) 密码`smuacm2023` |
+| 4.4     | [西南民族大学 春季 2023 训练赛 4](https://ac.nowcoder.com/acm/contest/55166) 密码`smuacm2023` |
+| 4.9     | [西南民族大学 春季 2023 训练赛 5](https://pintia.cn/problem-sets/1644899588408238080) ，[补题](https://pintia.cn/problem-sets/1644960722431668224) |
+| 4.11    | [西南民族大学 春季 2023 训练赛 6](https://pintia.cn/problem-sets/1645411514406531072)，[补题](https://pintia.cn/problem-sets/1645716194592415744) |
+| 4.15    | [西南民族大学 春季 2023 训练赛 7](https://pintia.cn/problem-sets/1646744534933696512)，[补题](https://pintia.cn/problem-sets/1646746610250149888) |
+| 4.18    | [西南民族大学 春季 2023 训练赛 8](https://pintia.cn/problem-sets/1646744902476357632)，[补题](https://pintia.cn/problem-sets/1646746373045477376) |
+| 4.23    | [SMU Spring 2023 Trial Contest Round 9](https://codeforces.com/gym/440104) |
+| 4.25    | [SMU Spring 2023 Trial Contest Round 10](https://codeforces.com/gym/440368) |
+| 5.2     | [SMU Spring 2023 Contest Round 1](https://codeforces.com/group/L9GOcnr1dm/contest/441495) |
+| 5.3     | [2022-2023 ICPC Asia Pacific - Taoyuan Regional Contest](https://qoj.ac/contest/1124) |
+| 5.7     | [2023 SMU RoboCom-CAIP 选拔赛](https://codeforces.com/group/L9GOcnr1dm/contest/441368) |
+| 5.9     | [SMU Spring 2023 Contest Round 2](https://codeforces.com/group/L9GOcnr1dm/contest/441671) |
+| 5.13    | [SMU Spring 2023 Contest Round 3](https://codeforces.com/group/L9GOcnr1dm/contest/443162) |
+| 5.16    | [2023 SMU SCPC 选拔赛](https://codeforces.com/group/L9GOcnr1dm/contest/443869) |
+| 5.20    | [SMU Spring 2023 Trial Contest Round 11](https://codeforces.com/group/L9GOcnr1dm/contest/444589) |
+| 5.21    | [SMU Spring 2023 Contest Round 4](https://codeforces.com/group/L9GOcnr1dm/contest/444749) |
+| 5.23    | [SMU Spring 2023 Contest Round 5](https://codeforces.com/group/L9GOcnr1dm/contest/445074) |
+| 5.27    | [2023 年上海市大学生程序设计竞赛 - 五月赛](https://acm.ecnu.edu.cn/contest/665/) |
+| 5.28    | SMU Spring 2023 Contest Round 6                              |
+| 5.30    | SMU Spring 2023 Contest Round 7                              |
+| 6.3-6.4 | 四川省大学生程序设计竞赛                                     |
+|         |                                                              |
 
 ### 天梯自主训练赛
 
@@ -93,15 +93,13 @@
 
 ## 题单
 
-
-
 | 题单                                               | 截止日期 |
 | -------------------------------------------------- | -------- |
 | [第一周题单 DP](https://vjudge.net/article/3518)   | 3.26     |
 | [第二周题单 贪心](https://vjudge.net/article/3518) | 4.2      |
 | [第三周题单 搜索](https://vjudge.net/article/3518) | 4.9      |
 | [第四周题单 数学](https://vjudge.net/article/3518) | 4.16     |
-|                                                    |          |
+| [省赛真题](https://vjudge.net/article/3518)        |          |
 
 
 

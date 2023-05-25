@@ -399,6 +399,12 @@ vp 了一下，只能做四道题还是很丢脸。G是莫队模板？但是不�
 
 VP了一下，感觉还是挺有难度的。最后剩了一个大模拟写不动了，润去吃饭了。感觉自己的代码能力还是不太足，需要多练练。
 
+**5.23 SMU Spring 2023 Contest Round 5**
+
+[题解](https://www.cnblogs.com/PHarr/p/17433003.html)
+
+这场比赛非常痛苦，两个小时锁定金牌然后开始了三个小时的坐牢，说到底还是自己的水平不够。
+
 **5.25 AtCoder Beginner Contest 302**
 
 [题解](https://www.cnblogs.com/PHarr/p/17432419.html)
