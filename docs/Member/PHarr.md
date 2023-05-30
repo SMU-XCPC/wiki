@@ -417,6 +417,20 @@ VP了一下，感觉还是挺有难度的。最后剩了一个大模拟写不动
 
 vp了这套比赛，赛后觉得 FG都算的上是妙妙题了。
 
+**5.25 Educational Codeforces Round 149 (Rated for Div. 2)**
+
+[题解](https://www.cnblogs.com/PHarr/p/17444581.html)
+
+这场算是手速场吧，可惜只上了一点点分数，悲伤。
+
+**5.28 SMU Spring 2023 Contest Round 6**
+
+现场赛铜牌，看来四川和上海这样强效遍地走的学校还有不小的差距。得加训了。
+
+**5.30 SMU Spring 2023 Contest Round 7**
+
+现场赛银牌首，就差一道题就可以拿金牌了，其实也说明了我们在区域赛拿银牌还有一定的距离。
+
 ## To Do List
 
 - [x] 2022 CCPC 女生赛 补题
