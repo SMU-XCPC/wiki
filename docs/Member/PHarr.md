@@ -393,6 +393,12 @@ vp 了一下，只能做四道题还是很丢脸。G是莫队模板？但是不�
 
 题目来源是今年的 CCPC 河南省赛，看了一下原榜，现场赛可以拿到亚军。再好好准备一下，争取省赛拿金牌！
 
+**5.19 Codeforces Round 874 (Div. 3)**
+
+[题解](https://www.cnblogs.com/PHarr/p/17441234.html)
+
+赛时做的还算比较顺利的，题拖了好久才补完，还是要提高效率。
+
 **5.22 SMU Spring 2023 Contest Round 3**
 
 [题解](https://www.cnblogs.com/PHarr/p/17421952.html)
