@@ -425,7 +425,11 @@ vp了这套比赛，赛后觉得 FG都算的上是妙妙题了。
 
 **5.28 SMU Spring 2023 Contest Round 6**
 
+[题解](https://www.cnblogs.com/PHarr/p/17447230.html)
+
 现场赛铜牌，看来四川和上海这样强效遍地走的学校还有不小的差距。得加训了。
+
+补题也只能补到银牌线上，又认识到了自己的水平差
 
 **5.30 SMU Spring 2023 Contest Round 7**
 
