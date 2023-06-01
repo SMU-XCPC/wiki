@@ -423,6 +423,12 @@ vp了这套比赛，赛后觉得 FG都算的上是妙妙题了。
 
 这场算是手速场吧，可惜只上了一点点分数，悲伤。
 
+**5.27 AtCoder Beginner Contest 303**
+
+[题解](https://www.cnblogs.com/PHarr/p/17448335.html)
+
+第一次赛时可以很轻松的出第五题，说明水平还有有些许提升。不过更多我的还是认为是这套的前半部分比较简单。
+
 **5.28 SMU Spring 2023 Contest Round 6**
 
 [题解](https://www.cnblogs.com/PHarr/p/17447230.html)
