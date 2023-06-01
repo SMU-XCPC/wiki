@@ -423,6 +423,12 @@ vp了这套比赛，赛后觉得 FG都算的上是妙妙题了。
 
 这场算是手速场吧，可惜只上了一点点分数，悲伤。
 
+**5.26 牛客小白月赛73**
+
+[题解](https://www.cnblogs.com/PHarr/p/17450416.html)
+
+赛时写的还挺快的。所以小上了一点分。
+
 **5.27 AtCoder Beginner Contest 303**
 
 [题解](https://www.cnblogs.com/PHarr/p/17448335.html)
