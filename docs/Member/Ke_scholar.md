@@ -1,6 +1,18 @@
 # Ke_scholar
 
-## 每次进步一点点()
+## 心有所向,日复一日,必有精进!
+
+## SMU Spring 2023 Contest Round 5 (4T/12)
+
+[题解](https://www.cnblogs.com/Kescholar/p/17450509.html)
+
+## SMU Spring 2023 Contest Round 4 (4T/10)
+
+[题解](https://www.cnblogs.com/Kescholar/p/17450256.html)
+
+## SMU Spring 2023 Trial Contest Round 11 (3T/5)
+
+[题解](https://www.cnblogs.com/Kescholar/p/17449774.html)
 
 ## SMU Spring 2023 Contest Round 3(3T/10)
 
