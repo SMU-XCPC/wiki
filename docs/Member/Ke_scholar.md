@@ -42,7 +42,7 @@
 
 ## [西南民族大学2023天梯选拔赛 5T](https://www.cnblogs.com/Kescholar/p/17263585.html)
 
-## [$SMU Spring 2023 Trial Contest Round 1 1T$](https://www.cnblogs.com/Kescholar/p/17242189.html)
+## [$SMU Spring 2023 Trial Contest Round 1 (3/13T)$](https://www.cnblogs.com/Kescholar/p/17242189.html)
 
-## 今天刷题了吗?<img src="D:\下载\QQ图片20230311154257 - 副本.jpg" style="zoom:25%;" />
+## 今天刷题了吗?
 
