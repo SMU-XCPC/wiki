@@ -16,13 +16,13 @@
 
 周一到周五下午为比赛，快速恢复手感。周六研讨会。
 
-| Date | Contest | Tutorial |
-| ---- | ------- | -------- |
-| 周一 |         |          |
-| 周二 |         |          |
-| 周三 |         |          |
-| 周四 |         |          |
-| 周五 |         |          |
+| Date | Contest                                                      | Tutorial |
+| ---- | ------------------------------------------------------------ | -------- |
+| 周一 | [SMU Summer 2023 Contest Round 1](https://codeforces.com/gym/450888) | Link     |
+| 周二 | [SMU Summer 2023 Contest Round 2](https://codeforces.com/gym/450889) | Link     |
+| 周三 | [SMU Summer 2023 Contest Round 3](https://codeforces.com/gym/450890) | Link     |
+| 周四 | SMU Summer 2023 Contest Round 4                              | Link     |
+| 周五 | SMU Summer 2023 Contest Round 5                              | Link     |
 
 [SMU 2023 Spring 题单](https://vjudge.net/article/3518)没有完成的请继续完成。
 
