@@ -16,6 +16,8 @@
 
 周一到周五下午为比赛，快速恢复手感。周六研讨会。
 
+[SMU 2023 Spring 题单](https://vjudge.net/article/3518)没有完成的请继续完成。
+
 | Date | Contest                                                      | Tutorial |
 | ---- | ------------------------------------------------------------ | -------- |
 | 周一 | [SMU Summer 2023 Contest Round 1](https://codeforces.com/gym/450888) | Link     |
@@ -24,13 +26,15 @@
 | 周四 | SMU Summer 2023 Contest Round 4                              | Link     |
 | 周五 | SMU Summer 2023 Contest Round 5                              | Link     |
 
-[SMU 2023 Spring 题单](https://vjudge.net/article/3518)没有完成的请继续完成。
+
 
 ### 第二周
 
 周一、周二、周四、周五为比赛。周六研讨会。
 
-同时有一套题单要在周一到周五完成。
+同时有一套题单要在本周内完成。
+
+[第二周训练题单](https://ac.nowcoder.com/acm/contest/60932) 密码`smu2023`，题单第一周周五就会开放
 
 
 
