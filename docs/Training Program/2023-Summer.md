@@ -16,23 +16,23 @@
 
 ### 第一周
 
-周一到周五下午为比赛，快速恢复手感。周六研讨会。
+周一到周五下午为比赛，快速恢复手感。周六休息（参加 RoboCom 的同学按时参加）周日研讨会。
 
 [SMU 2023 Spring 题单](https://vjudge.net/article/3518)没有完成的请继续完成。
 
-| Date | Contest                                                      | Tutorial |
-| ---- | ------------------------------------------------------------ | -------- |
-| 周一 | [SMU Summer 2023 Contest Round 1](https://codeforces.com/gym/450888) | Link     |
-| 周二 | [SMU Summer 2023 Contest Round 2](https://codeforces.com/gym/450889) | Link     |
-| 周三 | [SMU Summer 2023 Contest Round 3](https://codeforces.com/gym/450890) | Link     |
-| 周四 | SMU Summer 2023 Contest Round 4                              | Link     |
-| 周五 | SMU Summer 2023 Contest Round 5                              | Link     |
+| Date | Contest                                                      | Tutorial                                        |
+| ---- | ------------------------------------------------------------ | ----------------------------------------------- |
+| 周一 | [SMU Summer 2023 Contest Round 1](https://codeforces.com/gym/450888) | [Link](https://codeforces.com/blog/entry/52410) |
+| 周二 | [SMU Summer 2023 Contest Round 2](https://codeforces.com/gym/450889) | Link                                            |
+| 周三 | [SMU Summer 2023 Contest Round 3](https://codeforces.com/gym/450890) | Link                                            |
+| 周四 | [2022 RoboCom 世界机器人开发者大赛-本科组（省赛）](https://pintia.cn/market/item/1546381865379418112) | Link                                            |
+| 周五 | [2022 RoboCom 世界机器人开发者大赛-高职组（省赛）](https://pintia.cn/market/item/1546381854293868544) | Link                                            |
 
 
 
 ### 第二周
 
-周一、周二、周四、周五为比赛。周六研讨会。
+周一、周三、周五为比赛。周六研讨会。
 
 同时有一套题单要在本周内完成。
 
@@ -40,7 +40,7 @@
 
 ### 第三周
 
-周一、周二、周四、周五为比赛。周六研讨会。
+周一、周三、周五为比赛。周六研讨会。
 
 同时有一套题单要在周一到周五完成。
 
