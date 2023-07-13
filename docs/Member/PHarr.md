@@ -451,6 +451,50 @@ vp了这套比赛，赛后觉得 FG都算的上是妙妙题了。
 
 赛后补题的时候发现 jbls的题针不戳，其实 9 题都算是比较基础的，但是计算几何和数据结构的基础还是太薄弱了。
 
+### 2023 Summer
+
+#### 第一周
+
+**7.10 SMU Summer 2023 Contest Round 1**
+
+[题解](https://www.cnblogs.com/PHarr/p/17541355.html)
+
+感觉这套题打的不好，没有认真的想一想 C题而是选择了跳题，导致赛时只能做出两道题。
+
+**7.11 SMU Summer 2023 Contest Round 2**
+
+[题解](https://www.cnblogs.com/PHarr/p/17544947.html)
+
+比起第一场，这套题就顺利多了，D题用到了单调栈，可以单调栈我很久没有用了。
+
+**7.11 Codeforces Round 884 (Div. 1 + Div. 2)**
+
+[题解](https://www.cnblogs.com/PHarr/p/17550064.html)
+
+很久没打 CF 了，这场一个比较大的失误是在 B 题上，我写了暴力然后找规律猜结论，但是猜了一个错误的结论，但是我暴力的复杂度太高了，所以没有发现结论的错误。
+
+**7.12 [VP] 2022 RoboCom CAIP 本科组 省赛**
+
+[题解](https://www.cnblogs.com/PHarr/p/17547517.html)
+
+感觉还是比去年做这套题目的时候简单了很多，最难的应该是第四题吧，模拟这个优先级比较麻烦
+
+**7.13 SMU Summer 2023 Contest Round 3**
+
+[题解](https://www.cnblogs.com/PHarr/p/17551154.html)
+
+感觉一套题都挺板的，这套题里面有好几个和前面两次训练很类似的思想。
+
+**7.14 **
+
+[题解]()
+
+**7.15 **
+
+[题解]()
+
+**7.16 **
+
 ## To Do List
 
 - [x] 2022 CCPC 女生赛 补题

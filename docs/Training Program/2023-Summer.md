@@ -23,9 +23,9 @@
 | Date | Contest                                                      | Tutorial                                        |
 | ---- | ------------------------------------------------------------ | ----------------------------------------------- |
 | 周一 | [SMU Summer 2023 Contest Round 1](https://codeforces.com/gym/450888) | [Link](https://codeforces.com/blog/entry/52410) |
-| 周二 | [SMU Summer 2023 Contest Round 2](https://codeforces.com/gym/450889) | Link                                            |
-| 周三 | [SMU Summer 2023 Contest Round 3](https://codeforces.com/gym/450890) | Link                                            |
-| 周四 | [2022 RoboCom 世界机器人开发者大赛-本科组（省赛）](https://pintia.cn/market/item/1546381865379418112) | Link                                            |
+| 周二 | [SMU Summer 2023 Contest Round 2](https://codeforces.com/gym/450889) | [Link](https://codeforces.com/blog/entry/52638) |
+| 周三 | [2022 RoboCom 世界机器人开发者大赛-本科组（省赛）](https://pintia.cn/market/item/1546381865379418112) | Link                                            |
+| 周四 | [SMU Summer 2023 Contest Round 3](https://codeforces.com/gym/450890) | [Link](https://codeforces.com/blog/entry/54357) |
 | 周五 | [2022 RoboCom 世界机器人开发者大赛-高职组（省赛）](https://pintia.cn/market/item/1546381854293868544) | Link                                            |
 
 
