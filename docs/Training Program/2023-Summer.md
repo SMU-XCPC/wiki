@@ -52,10 +52,10 @@
 
 | Date               | Contest    | VP   | Tutorial |
 | ------------------ | ---------- | ---- | ---- |
-| on Monday, July 17 | 牛客多校1  | Link | Link |
-| on Tuesday, July 18              | 杭电多校1  | Link | Link |
+| on Monday, July 17 | [牛客多校1](https://ac.nowcoder.com/acm/contest/57355) | Link | Link |
+| on Tuesday, July 18              | [杭电多校1](http://acm.hdu.edu.cn/contest/problems?cid=1094) | Link | Link |
 | on Thursday, July 20              | 杭电多校2  | Link | Link |
-| on Friday, July 21              | 牛客多校2  | Link | Link |
+| on Friday, July 21              | [牛客多校2](https://ac.nowcoder.com/acm/contest/57356) | Link | Link |
 | on Monday, July 24 | 牛客多校3  | Link | Link |
 | on Tuesday, July 25              | 杭电多校3  | Link | Link |
 | on Thursday, July 27              | 杭电多校4  | Link | Link |
