@@ -2,13 +2,23 @@
 
 ## 心有所向,日复一日,必有精进!
 
-## [2023 年（第十五届）四川省大学生程序设计大赛 (3/11)](https://www.cnblogs.com/Kescholar/p/17506796.html)
+### 蠢死我算了
 
-## [$SMU Spring 2023 Contest Round 7(3/13)$](https://www.cnblogs.com/Kescholar/p/17506290.html)
+## [$SMU Summer 2023 Contest Round 4(1T/6)$](https://www.cnblogs.com/Kescholar/p/17560630.html)
 
-## [$SMU Spring 2023 Contest Round 6(2/14)$](https://www.cnblogs.com/Kescholar/p/17501377.html)
+## [$SMU Summer 2023 Contest Round 3 (0T/6)$](https://www.cnblogs.com/Kescholar/p/17551975.html)
 
-## [2023 年上海市大学生程序设计竞赛$(1/6)$](https://www.cnblogs.com/Kescholar/p/17506710.html)
+## [$SMU Summer 2023 Contest Round 2 (1T/6)$](https://www.cnblogs.com/Kescholar/p/17545069.html)
+
+## [$SMU Summer 2023 Contest Round 1(1T/6)$](https://www.cnblogs.com/Kescholar/p/17542786.html)
+
+## [2023 年（第十五届）四川省大学生程序设计大赛 (3T/11)](https://www.cnblogs.com/Kescholar/p/17506796.html)
+
+## [$SMU Spring 2023 Contest Round 7(3T/13)$](https://www.cnblogs.com/Kescholar/p/17506290.html)
+
+## [$SMU Spring 2023 Contest Round 6(2T/14)$](https://www.cnblogs.com/Kescholar/p/17501377.html)
+
+## [2023 年上海市大学生程序设计竞赛$(1T/6)$](https://www.cnblogs.com/Kescholar/p/17506710.html)
 
 ## [$SMU Spring 2023 Contest Round 5 (4T/12)$](https://www.cnblogs.com/Kescholar/p/17450509.html)
 
@@ -40,7 +50,7 @@
 
 ## [西南民族大学 春季 2023 训练赛 2 (534/800)](https://www.cnblogs.com/Kescholar/p/17272106.html)
 
-## [西南民族大学2023天梯选拔赛 5T](https://www.cnblogs.com/Kescholar/p/17263585.html)
+## [西南民族大学2023天梯选拔赛 (5T/12)](https://www.cnblogs.com/Kescholar/p/17263585.html)
 
 ## [$SMU Spring 2023 Trial Contest Round 1 (3/13T)$](https://www.cnblogs.com/Kescholar/p/17242189.html)
 
